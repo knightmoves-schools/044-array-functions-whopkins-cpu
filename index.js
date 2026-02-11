@@ -1,4 +1,4 @@
-var automobiles = ["car", "truck", "motorcycle"];
+const automobiles = ["car", "truck", "motorcycle"];
 
 automobiles.push("airplane", "skateboard");
 
