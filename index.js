@@ -7,4 +7,7 @@ automobiles.unshift("bike", "helicopter");
 var automobilesCopy = [automobiles];
 
 automobiles.shift();
+
 automobiles.pop();
+
+document.getElementById("result").innerHTML = automobiles;
