@@ -4,7 +4,7 @@ automobiles.push("airplane", "skateboard");
 
 automobiles.unshift("bike", "helicopter");
 
-var automobilesCopy = [automobiles];
+var automobilesCopy = `${automobiles}`;
 
 automobiles.shift();
 
